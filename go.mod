@@ -1,6 +1,6 @@
 module github.com/trezor/blockbook
 
-go 1.14
+go 1.13
 
 require (
 	github.com/Groestlcoin/go-groestl-hash v0.0.0-20181012171753-790653ac190c // indirect
